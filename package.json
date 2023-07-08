@@ -291,7 +291,7 @@
     "mocha-junit-reporter": "^1.13.0",
     "tslint": "^5.2.0",
     "typescript": "^3.5.3",
-    "vscode": "^1.1.10",
+    "vscode": "^1.1.37",
     "vscode-textmate": "^4.2.2"
   },
   "dependencies": {
